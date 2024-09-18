@@ -43,7 +43,7 @@
  shotnoise=1
  iotail=1
  zstop=18
- !nwig=300
+ !nwig=300 !nwig & lattice only one is utilized
  maginfile='sase2.lat'
  ALIGNRADF=1
  OFFSETRADF=0
